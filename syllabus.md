@@ -27,7 +27,7 @@ I will be using Git and Github to share information and projects with everyone, 
 * <span style = 'color:green;'>√</span> Add Changes
 * <span style = 'color:green;'>√</span> Commit Changes
 * <span style = 'color:green;'>√</span> Push Changes
-* <span style = 'color:blue;'>?</span> Add new Remote repo
+* <span style = 'color:green;'>√</span> Add new Remote repo
 * <span style = 'color:green;'>√</span> Fetch Remote changes
 * <span style = 'color:green;'>√</span> Add SSH Key
 * <span style = 'color:green;'>√</span> Merge Branches
